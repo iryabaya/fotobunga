@@ -1,4 +1,4 @@
 fotobunga
 =========
 
-pic picking site
+Guess the city in the photo
